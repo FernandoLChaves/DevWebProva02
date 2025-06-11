@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+#marca{
+  text-align: left;
+}
+
+#navBar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+#home {
+  float: right;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+header{
+  background-color: #61dafb;
+}

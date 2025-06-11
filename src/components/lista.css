@@ -1,0 +1,22 @@
+h1{
+    text-align: left;
+}
+h4{
+    text-align: left;
+}
+th{
+    text-align: left;
+    background-color: aquamarine;
+}
+#nome{
+    width: 160px;
+    height: 30px;
+}
+
+#email{
+    font-size: small;
+
+}
+table{
+    align-items: center;
+}
